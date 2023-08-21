@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hi everyone, my name is Eric Warren.
 
-Maybe say a some things about yourself.
+I am a Master's Candidate in Statistics at North Carolina State University.
 
-Or maybe what you plan to blog about.
+My interests are in sports, finance, and healthcare analytics.
