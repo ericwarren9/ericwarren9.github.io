@@ -10,6 +10,4 @@ Some hobbies I have include:
   + Reading (I like to read about statistics, sports trends, history)
   + Chess (I am not very good and learning)
 
-<p align = "center"><img src= "/Eric%20Warren%20Headshot.png" width=25% height=25%></p>
-
 ![](/Eric%20Warren%20Headshot.png)
