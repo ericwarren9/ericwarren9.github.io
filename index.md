@@ -1,6 +1,6 @@
 Hello everyone, my name is Eric Warren. I am a Master's Candidate in Statistics at North Carolina State University. 
 
-My career interests include sports, finance, and healthcare analytics and I hope to become a Data Scientist.
+My career interests include sports, finance, and healthcare analytics and I hope to become a future Data Scientist.
 
 Some hobbies I have include:
   + Sports (I have played almost every sport imaginable).
