@@ -11,3 +11,5 @@ Some hobbies I have include:
   + Chess (I am not very good and learning)
 
 <p align = "center"><img src= "https://github.com/ericwarren9/ericwarren9.github.io/blob/main/Eric%20Warren%20Headshot.png" width=25% height=25%></p>
+
+![](https://github.com/ericwarren9/ericwarren9.github.io/blob/main/Eric%20Warren%20Headshot.png)
