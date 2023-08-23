@@ -8,6 +8,8 @@ Some hobbies I have include:
     + I have worked on past sports analytics projects which includes [my project at Carnegie Mellon](https://3foak4-eric-warren.shinyapps.io/nhl_player_projected_salaries/)
   + Disc Golf (I know this is becoming a sport but more of a leisure activity for me)
   + Reading (I like to read about statistics, sports trends, history)
-  + Chess (I am not very good and learning)
+  + Chess (I am not very good but learning)
+
+<img src="https://github.com/ericwarren9/ericwarren9.github.io/blob/main/Eric%20Warren%20Headshot.png" data-canonical-src="https://github.com/ericwarren9/ericwarren9.github.io/blob/main/Eric%20Warren%20Headshot.png" width="25%" height="25%" />
 
 ![](/Eric%20Warren%20Headshot.png)
