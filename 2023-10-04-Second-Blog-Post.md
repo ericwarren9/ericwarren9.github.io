@@ -1,9 +1,1 @@
-## Recap of Interacting with US Treasury API
 
-I have had the recent pleasure of interacting with the [US Treasury API](https://fiscaldata.treasury.gov/api-documentation/), which can be found on the [Fiscal Data website](https://fiscaldata.treasury.gov/). 
-
-After finding an API that works with the analysis I plan to do, I try to find endpoints (or extensions of the API that contain the actual datasets we plan to use) and found three very useful ones. The first is the Treasury Securities interest rates over time, the second is the US Balance Sheet updated at the end of each fiscal year, and the last is the US National Debt calculations, broken down by groups of where the debt is coming from (or how much money is owed to each group of creditors -- i.e. the United States population or other nations). 
-
-After determining my data sources, I start off by letting users know what R packages they need load or install (if they do not have already) so they can do a similar analysis to what I show in later examples. If these packages are not installed or loaded at the start of the R session, then you will not be able to load in the data correctly using functions specified later or you may not be able to perform the exploratory data analysis that is specified later. Please note, I have two packages I recommend which are [`gridExtra`](https://cran.r-project.org/web/packages/gridExtra/gridExtra.pdf) (which allows plots to be arranged in a tidy way) and [`gganimate`](https://gganimate.com/) (which is a way to make animated plots that might change over a particular variable -- used a lot for changes over time). If you wish to use different plots or arrange your plots in a different way, feel free to not install and/or load these packages. 
-
-Shifting to the next section of my interaction with the API, I make some functions that allow the users to get the particular data they might want. For example, a user will have the opportunity to pull 
