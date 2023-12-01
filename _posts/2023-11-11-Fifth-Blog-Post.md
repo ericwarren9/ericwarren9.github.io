@@ -12,4 +12,4 @@ I had some major takeaways from this project. First, I did not realize the amoun
 
 For those who are interested in viewing the project, please view our [website](https://ericwarren9.github.io/ST-558-Project-3/) to see the results. If you would like to see the machine learning techniques and how this was made, feel free to check out our [GitHub repository](https://github.com/ericwarren9/ST-558-Project-3/tree/main) that contains all of the information.
 
-As always, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eric-warren-960037203/) or contact me via [email](mailto:ericwarren09@yahoo.com) and I would be happy to hear what machine learning techniques you would potentially use for this project or any other suggestions you would like to share. 
+As always, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eric-warren-960037203/) or contact me via [email](mailto:ericwarren09@yahoo.com) and I would be happy to hear what machine learning techniques you would potentially use for this project or any other suggestions you would like to share.
