@@ -2,7 +2,7 @@ Hello everyone, my name is Eric Warren. I am a Master's Candidate in Statistics 
 
 My career interests include sports, finance, and healthcare analytics and I hope to become a future Data Scientist.
 
-I am hoping to feature many blogs about the data science community and what it means to be a part of it and how to join if you currently are not and want to.
+I am hoping to feature many blogs about the data science community, what it means to be a part of it, and how to join if you currently are not and want to.
 
 Some hobbies I have include:
   + Sports (I have played almost every sport imaginable).
