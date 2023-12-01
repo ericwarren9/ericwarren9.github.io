@@ -1,4 +1,4 @@
-# Classroom Career Over, Professional Journey Just Beginning
+# Classroom Career Over, Professional Journey Awaiting Takeoff
 
 If you are a follower of the blog, I appreciate it. As you have read, I started off my journey as a data scientist by first learning what it meant to be one in a classroom setting. I learned some very valuable skills of how to read, scrape, manipulate, and model data, along with countless amounts of other technical and soft skills. I wanted to share that after completing my last project for my Data Science in R class, I have learned adequate skills to start my professional path as a data scientist. 
 
