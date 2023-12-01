@@ -1,0 +1,7 @@
+# Classroom Career Over, Professional Journey Just Beginning
+
+If you are a follower of the blog, I appreciate it. As you have read, I started off my journey as a data scientist by first learning what it meant to be one in a classroom setting. I learned some very valuable skills of how to read, scrape, manipulate, and model data, along with countless amounts of other technical and soft skills. I wanted to share that after completing my last project for my Data Science in R class, I have learned adequate skills to start my professional path as a data scientist. 
+
+My project featured scraping, manipulating, and modeling data on NFL quarterbacks salaries and performance. All of this was developed into a [Shiny Application](https://3foak4-eric-warren.shinyapps.io/Predicting_NFL_QBs_Salaries_by_Performance/), which please feel free to view and play around with to see what NFL quarterbacks **should** be getting paid in the inflated market. If you would like to see the machine learning techniques and how the application was made, feel free to check out my [GitHub repository](https://github.com/ericwarren9/ST-558-Project-4) that contains all of the information.
+
+As always, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eric-warren-960037203/) or contact me via [email](mailto:ericwarren09@yahoo.com) and I would be happy to hear your thoughts about the application or any other advice you would like to give to an aspiring data scientist.
